@@ -23,192 +23,131 @@ http://stvlive.net:8080/discovery/index.m3u8
 http://151.80.18.177:86/National_Geo_HD/index.m3u8
 
 
-t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=0a7b49d6b9a7de56c3e767a7e1dfbd678866b375-210aff3fbffce14f8ac522e6a9fad741-1767677139-1767673539
-star sports 1
-https://edge2.roarzone.info:8443/roarzone/edge2/star-sports-1-hd/index.m3u8?token=b4142d87fc8f1d75109c57873a24b7962554691c-76de4c2a6da3958a87ab495564732ccb-1767677139-1767673539
-star sports 2
-https://edge2.roarzone.info:8443/roarzone/edge2/star-sports-2-hd/index.m3u8?token=4e535d8bfe6c64a40f2fd410352db5d5394e5552-7dc4110b966c80a1ad3fa1e5f6da89a9-1767677139-1767673539
-gazi tv
-https://edge2.roarzone.info:8443/roarzone/edge2/gazitv/index.m3u8?token=2cbcc2d3abf5f28d2fe01b0da39bc0671436a6e9-a691fb44a053d85cc5c626819ccbde74-1767677139-1767673539
-ptv spotrs
-https://edge2.roarzone.info:8443/roarzone/edge2/ptv/index.m3u8?token=859292c3760cbcbd6b990691c8b7828c344e5b23-c7c75173bd7f550c416767f67c513de4-1767677139-1767673539
-asports
-https://edge2.roarzone.info:8443/roarzone/edge2/asports/index.m3u8?token=cd6eba96e3a47762e805812ddd30c09da7ab82d6-f1e6cd1f6b03aa39d665eb812028a8fe-1767677139-1767673539
-abc-australia
-https://edge2.roarzone.info:8443/roarzone/edge2/abc-australia/index.m3u8?token=8d65746e51ec708c06f2f5fa750e89d9ca25288c-0deb9de3338ad5fbea654fa71fa6e467-1767677139-1767673539
-sony ten 1
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=bffc67d8d6df66de3a7a326b95356dd47100f1f8-813067724fb210626b23e715e2717686-1767677139-1767673539
-sony ten 2
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=4952216da363a266f7dde2e761203fb593fab6b0-9ef5be86ce4f2178def7e7aaa380d64a-1767677139-1767673539
-sony ten 3
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=ccb06b3f71e9d861f4935a9e34bd172d580112fe-a0ad487eb8df7cdbba1760571216c3dd-1767677139-1767673539
-sony six
-https://edge2.roarzone.info:8443/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=14850d4aaf639195a1851be7f7c02f5284333003-ca54e478ec19cbf2f0e9d2de829c34c7-1767677139-1767673539
-star sports select 1
-https://edge2.roarzone.info:8443/roarzone/bk/27/index.m3u8?token=b6b0e04f6023cefecc154c8253b682da1fc811f2-359dd1a708b8ddd5d0d4408b5b83d642-1767677139-1767673539
-star sports select 2
-https://edge2.roarzone.info:8443/roarzone/bk/28/index.m3u8?token=5f6a14c6bf37423fd541863aabe51b2a053856f0-0d18147b3be0ba9733ab6408713a8f12-1767677139-1767673539
-euro sports
-https://edge2.roarzone.info:8443/roarzone/toffee/euro_sports_hd/index.m3u8?token=e7222bb30c9e046a762dbee23405da807dfa1723-77f940f86c14c19ca4258f73d348c9c5-1767677139-1767673539
-dubai sports
-https://edge2.roarzone.info:8443/roarzone/bk/dubai-sports/index.m3u8?token=f215ace97d5fc2ead409c68a5f6174b27294ce6a-81409203370d805027ee195a7f2debce-1767677139-1767673539
-ten cricket
-https://edge2.roarzone.info:8443/roarzone/toffee/ten_cricket/index.m3u8?token=263e0cc750aeee64510f1ed7bfe46495b43c2223-2e9e3c527fe012dedb3a259c18b9d755-1767677139-1767673539
-star gold select
-https://edge2.roarzone.info:8443/roarzone/bk/72/index.m3u8?token=3e2900d7f9751f3c36274ec79eb45d23860398ee-0f53eab49ca29b5a0cd049baab44e932-1767677139-1767673539
-sony tv
-https://edge2.roarzone.info:8443/roarzone/bk/38/index.m3u8?token=c7cd6818a4c846c00ae97fd7e086fc58d7eb3a9f-857a52f6e22e2d567eb933d89c7a5eab-1767677139-1767673539
-sony max
-https://edge2.roarzone.info:8443/roarzone/bk/77/index.m3u8?token=3ba67a8433c72d21d3befac868d0b83629ee18eb-90fe7e836eab63f7e19c134e3b2155e1-1767677139-1767673539
-sony max hd
-https://edge2.roarzone.info:8443/roarzone/toffee/sony_max_hd/index.m3u8?token=dd07eacf2adfc782348866269dc8a5b76e05c47a-8d2e5dbb89b71757b4988f41689bd7b4-1767677139-1767673539
-colors
-https://edge2.roarzone.info:8443/roarzone/bk/68/index.m3u8?token=cfa2679194786de9b55c11e8f59e9a3a5d4f5bbd-9fdaeb43ea95c3ff68467553a9d65e5b-1767677139-1767673539
-sony max 2
-https://edge2.roarzone.info:8443/roarzone/toffee/sonymax_2/index.m3u8?token=caabd556f84f30f0ec116c6f89ea7913a21a673e-f5afa79c6b0412f8dbaa1c300188eb8c-1767677139-1767673539
-zee tv
-https://edge2.roarzone.info:8443/roarzone/bk/40/index.m3u8?token=83651d2b6596d59bedcd95fb937194b309e474ef-e6eaca576958aeaffe15afe883371f11-1767677139-1767673539
-zee cinema
-https://edge2.roarzone.info:8443/roarzone/bk/76/index.m3u8?token=442444dc8df5769e7ee54b4173a2df8188ac5080-8253ac773363770cf8be38c7dea30d87-1767677139-1767673539
-zee bollywood
-https://edge2.roarzone.info:8443/roarzone/toffee/zee_bollywood/index.m3u8?token=2bf3a0e1b2152afb1fc9b33f87b2c5765696c8a9-bf24772f31522daaa80671ca9e0177b3-1767677139-1767673539
-zee action
-https://edge2.roarzone.info:8443/roarzone/toffee/zee_action/index.m3u8?token=3daf4a3c4018068b49b88b6287e09f3dfaefd750-645161a972554319788990a8e0f1abe1-1767677139-1767673539
-star plus
-https://edge2.roarzone.info:8443/roarzone/bk/67/index.m3u8?token=70f16691819e783d35db779f56ba0b796f012eea-8bac9b6f14030985a8f64cb406dc6892-1767677139-1767673539
-and tv hd
-https://edge2.roarzone.info:8443/roarzone/bk/74/index.m3u8?token=5e70628ce1b2f84617241f334c8010b7c0a0c884-f1a245e30b1b4bf5680d3f85728b4ec8-1767677139-1767673539
-and pictures
-https://edge2.roarzone.info:8443/roarzone/bk/100/index.m3u8?token=5bc03a911339b9c23d3fe5aed804b9c7409a7850-5ff6e840fbc8d772d5dcc57e56bbff59-1767677139-1767673539
-hum tv
-https://edge2.roarzone.info:8443/roarzone/toffee/hum_tv/index.m3u8?token=7842964c5018af3a33555b657bb7b00088026c2a-13c1a543b4d53dc9ddd5dd558726cb55-1767677139-1767673539
-zee-anmol
-https://edge2.roarzone.info:8443/roarzone/toffee/zee_anmol/index.m3u8?token=ec9d73823a8ee57a6ba85558826947f1b0e58544-a2cf9070b72a84e1755dd14727829c01-1767677139-1767673539
-hum masala
-https://edge2.roarzone.info:8443/roarzone/toffee/hum_masala/index.m3u8?token=0541e930d946324ad766cb124b893a1af70d09c3-7cd1f3844c66471dc1defc69bd1d3593-1767677139-1767673539
-hum sitarey
-https://edge2.roarzone.info:8443/roarzone/toffee/hum_sitaray/index.m3u8?token=bd7689c8a62a935bfe2b8c506d602cdc4ed967dd-1f31cb4daf26c95214d880992591ea93-1767677139-1767673539
-b4u movies
-https://edge2.roarzone.info:8443/roarzone/toffee/b4u_movies/index.m3u8?token=8230d2d5301206cb9f308bff6114e6652999e2e1-01fc0f6847003b056807a9a2b14e7beb-1767677139-1767673539
-discovery hd
-https://edge2.roarzone.info:8443/roarzone/bk/83/index.m3u8?token=2bd6b57b93e26a01c0cf387302b533c79d716a59-f9152067befbde5fb57cea878bfdbef3-1767677139-1767673539
-discovery science
-https://edge2.roarzone.info:8443/roarzone/toffee/discovery_science/index.m3u8?token=0f64ecd1fc8c5aa726298339e0e018ebf330023a-9011e253974d43122deae8ca7020dce5-1767677139-1767673539
-discovery turbo
-https://edge2.roarzone.info:8443/roarzone/toffee/discovery_turbo/index.m3u8?token=20d6e3af39fe405e0a6e0d1015efc7f804c712e4-6412a3f630aa2437e9bc453d36a29f8f-1767677139-1767673539
-discovery hd investigation
-https://edge2.roarzone.info:8443/roarzone/toffee/discovary_investigation_hd/index.m3u8?token=afc449fce732bb5d68550eade1d56633db6fe4b3-2352ba095fc678be4382c6d951aecb92-1767677139-1767673539
-cnn
-https://edge2.roarzone.info:8443/roarzone/toffee/cnn/index.m3u8?token=f1c39bac25192922614d2a2d6cfcb372ff337221-88e2a55634a7ab49f362ea7f439d0816-1767677139-1767673539
-sony bbc earth hd
-https://edge2.roarzone.info:8443/roarzone/bk/44/index.m3u8?token=7e91fe1cede5de723064b05a0a41dbb999ec8b6f-321a07ebd8d4da2d4a7cb70bd0c8bf1f-1767677139-1767673539
-natgeo
-https://edge2.roarzone.info:8443/roarzone/bk/35/index.m3u8?token=223dcc37aa0204fc7527997e36868dac22d51169-0d3f7298b6a24182bbdf50c54fdf2b43-1767677139-1767673539
-animal planet
-https://edge2.roarzone.info:8443/roarzone/toffee/animal_planet_hd/index.m3u8?token=b038f80cb10a8264cb903f0854dbfd1a9bd731cb-0b87897123f8873540aac030e340d51b-1767677139-1767673539
-star jalsha
-https://edge2.roarzone.info:8443/roarzone/bk/30/index.m3u8?token=77217aa3267da080fa005aa33b6a3e59071ed4f3-26f35361f9e742a1134a194376c1e282-1767677139-1767673539
-star jalsha movies
-https://edge2.roarzone.info:8443/roarzone/bk/31/index.m3u8?token=66bc17a3d1371055dcad9ad36c4bcfbcee1c2e47-99f1acd51803f005a6026b8fb5dcde60-1767677139-1767673539
-zee bangla
-https://edge2.roarzone.info:8443/roarzone/bk/34/index.m3u8?token=65a429a1591e3ff6e39096f2fe768284bbf46f43-8619fb504f13b5e78222437fb37b25f2-1767677139-1767673539
-zee bangla cinema
-https://edge2.roarzone.info:8443/roarzone/bk/29/index.m3u8?token=2425dbd36849983696c5fc317cca7aae87972e5a-91b48ab27c02d22056f176041c7298aa-1767677139-1767673539
-colors bangla
-https://edge2.roarzone.info:8443/roarzone/bk/66/index.m3u8?token=851e02f1bd09051969c4613332bbd49c6117b938-ae02d1fbdaf0cdfefc0a6dc12c484bc4-1767677139-1767673539
-sony aath
-https://edge2.roarzone.info:8443/roarzone/bk/33/index.m3u8?token=5d1803a0cd98ca50d723ea82e5b749b5e3bb7a93-50a67e949c0ec17b61cf680e33994f45-1767677139-1767673539
-cartoon network
-https://edge2.roarzone.info:8443/roarzone/bk/79/index.m3u8?token=9600e8b365f4e945e3c543f9b5db6e0e7735e928-ae3201b47bedb1216a6cb7aad1b88465-1767677139-1767673539
-nick
-https://edge2.roarzone.info:8443/roarzone/bk/55/index.m3u8?token=ffff781a86c64b4b64dadb96aaa6ec8eebc5fedf-15884b82035a0fea9f8391730dddcb6f-1767677139-1767673539
-pogo
-https://edge2.roarzone.info:8443/roarzone/toffee/pogo_sd/index.m3u8?token=668b709426a50670702aefd0a1e23eb3b752387b-9e19ca054e0511a0c8b730df39e0eda9-1767677139-1767673539
-discovery kids
-https://edge2.roarzone.info:8443/roarzone/toffee/discovery_kids/index.m3u8?token=b9b1d2f3a3381d4198da398eed46c618a34be2bd-cd9f9827eb389a9494941d7d29fae4a8-1767677139-1767673539
-sony yay
-https://edge2.roarzone.info:8443/roarzone/toffee/sonyyay/index.m3u8?token=da8c0eaa278d1e4a016c1c298f700df195decbbe-bd21056870ef73bc1ec82fc19b989497-1767677139-1767673539
-star movies
-https://edge2.roarzone.info:8443/roarzone/bk/starmovies/index.m3u8?token=b2f84375f8efda4d42a949c358152002aeae082b-eae3ba5f6c12fb83b77e85f4d77521ac-1767677139-1767673539
-zee cafe hd
-https://edge2.roarzone.info:8443/roarzone/toffee/zee_cafe_hd/index.m3u8?token=29dd695b259a41e0019b43f37885863a81f41101-a943618c5779c1f51272e8bd9bb2534e-1767677139-1767673539
-sony pix
-https://edge2.roarzone.info:8443/roarzone/bk/41/index.m3u8?token=b603c0f7fb0e5ba8b933789b312a79023afb5682-36f5777382d400a7009bbcdc72f77ec3-1767677139-1767673539
-dw news
-https://edge2.roarzone.info:8443/roarzone/bk/85/index.m3u8?token=8f4ce285490696a771817c484620ad8b8f50a841-5dccdb403d430f1507e4761067afb1da-1767677139-1767673539
-al jazeera
-https://edge2.roarzone.info:8443/roarzone/bk/89/index.m3u8?token=23bd935f8b76a1a3aefb47de25d282476719a92c-06775239be6da809ab814f7dd4d744e5-1767677139-1767673539
-gaan bangla
-https://edge2.roarzone.info:8443/roarzone/bk/58/index.m3u8?token=4f87d66eef046744adf2a4bd32af3148536f723e-ae1822172d6e91fede34c1a4717fd721-1767677139-1767673539
-9xm
-https://edge2.roarzone.info:8443/roarzone/bk/48/index.m3u8?token=6e74f7cc82e9bfd2563e2e734c4b059073439618-f41e2608de2d30177243995fc7823d37-1767677139-1767673539
-zing
-https://edge2.roarzone.info:8443/roarzone/toffee/Zing/index.m3u8?token=b49d435cccdfbe4910db2c17b01023500dab90eb-f59a19e427c720aefccf723a2d20847d-1767677139-1767673539
-b4u music
-https://edge2.roarzone.info:8443/roarzone/toffee/b4u_music/index.m3u8?token=7dcf6537b8ad8db80161022efbb62c7eafad773e-8bd25ee9f4da1203aea0fcf1eb9a5ec1-1767677139-1767673539
-jamuna tv
-https://edge2.roarzone.info:8443/roarzone/edge2/jamunatv/index.m3u8?token=7547b570b1341c1d3ef2c34903a231e1a5d09af4-dc87f9089a02bc358da583f8147cfa90-1767677139-1767673539
-nagorik tv
-https://edge2.roarzone.info:8443/roarzone/edge2/nagorik/index.m3u8?token=b5bbfb62d427913e03a353f41bf3464eae718d5a-4ab69c01cb087246dc8c7b1ac9be862c-1767677139-1767673539
-channel 24
-https://edge2.roarzone.info:8443/roarzone/edge2/channel24/index.m3u8?token=5bcb9f686bceb6087efa241ccab11adb4109b86a-83524a42102e135ccd671a12a009cbd3-1767677139-1767673539
-somoy tv
-https://edge2.roarzone.info:8443/roarzone/edge2/somoy/index.m3u8?token=26021f4d7f2a84155998f159f5292e5f36bf21ab-b2725db0031577d64a355703aa77b6eb-1767677139-1767673539
-ekushy tv
-https://edge2.roarzone.info:8443/roarzone/bk/65/index.m3u8?token=362077b79332e274a715fe2dc5d418412cd62b62-0a50360b790465307e22ecd30867bad3-1767677139-1767673539
-asian tv
-https://edge2.roarzone.info:8443/roarzone/edge/asian-tv/index.m3u8?token=5affd3a77677640fe7588e70acb19da087f5abed-dd42885f05f823d0cb2b3d834d561261-1767677139-1767673539
-atn bangla
-https://edge2.roarzone.info:8443/roarzone/bk/2/index.m3u8?token=987da72f5cc0b8a37a4a097583d65421a9f2c2c7-0c0fdf61e4add80744e6de6c98519d98-1767677139-1767673539
-atn news
-https://edge2.roarzone.info:8443/roarzone/bk/49/index.m3u8?token=3b0ffb101b8a4832eda5c8e80e02c45ac2f24712-e2a15c7f3d58cc73f9b5ab15114b34a0-1767677139-1767673539
-banglavision tv
-https://edge2.roarzone.info:8443/roarzone/bk/3/index.m3u8?token=c50b9fc08538d175c5ecc4914398e9cc2bd77d99-c3d178a12e7c1b587fd3ea4b4723f0d5-1767677139-1767673539
-bangla tv
-https://edge2.roarzone.info:8443/roarzone/bk/19/index.m3u8?token=9d2b4d2354fc6d1d9a4159b871ff4c6d7064a55b-d3c23bf99e70c305683c6bac5c4be332-1767677139-1767673539
-boishakhi tv
-https://edge2.roarzone.info:8443/roarzone/bk/61/index.m3u8?token=f360d114674058ec14528390b3d16ab95b072cd4-4410793ae23b58a82f83a653dc072a27-1767677139-1767673539
-btv
-https://edge2.roarzone.info:8443/roarzone/bk/53/index.m3u8?token=ba2f6cc55998350cc48fafe0898ed38eaef25718-2416b6a57ace1141e1a68e448eb03de6-1767677139-1767673539
-btv world
-https://edge2.roarzone.info:8443/roarzone/bk/84/index.m3u8?token=18e1a0bda092ae50ffb0a4be14356cb12a0a97a2-3fead172f661c7a7e8cac9a2210cb0b2-1767677139-1767673539
-channel 9
-https://edge2.roarzone.info:8443/roarzone/bk/4/index.m3u8?token=fc803df5aebff52ce4d8c0a7f21fc9c1ec1bbe39-28ba46b978b8c4cba5b60db897e7dbc5-1767677139-1767673539
-channel i
-https://edge2.roarzone.info:8443/roarzone/bk/6/index.m3u8?token=50f6f2534c0f04d4933b1ee960ce8372a27e1a30-a88a28e599c35f3f68ff8a58ea562461-1767677139-1767673539
-dbc news
-https://edge2.roarzone.info:8443/roarzone/bk/7/index.m3u8?token=cbe9758613f71a607ac484ced5def7a43bf60e1a-8d6ec85631dd6b1c765b74a805a35746-1767677139-1767673539
-ekattor tv
-https://edge2.roarzone.info:8443/roarzone/bk/11/index.m3u8?token=4193c17bba8d293ef0b5b530773b3b504c2cbc98-7c0bca5718b6290918d9ee0b946dce86-1767677139-1767673539
-deepto tv
-https://edge2.roarzone.info:8443/roarzone/bk/8/index.m3u8?token=5a7206c09c059537ba1dda77d66606678330964a-5f73ee98096f56f15056493e448f659e-1767677139-1767673539
-desh tv
-https://edge2.roarzone.info:8443/roarzone/bk/9/index.m3u8?token=c722954d93aad71d816c9623b52c8c84a74faa7b-8100792be03e43861c388efd8e98c228-1767677139-1767673539
-duronto tv
-https://edge2.roarzone.info:8443/roarzone/bk/10/index.m3u8?token=2d453428cacbe24513c3b32332481eda2d47ccc2-3e7b94d66cba5e7490c27da8f3104605-1767677139-1767673539
-independent tv
-https://edge2.roarzone.info:8443/roarzone/bk/12/index.m3u8?token=b784f2430825c54855af88345091667fa7a13671-81a345440f30a9ee64b45d4938262297-1767677139-1767673539
-maasranga
-https://edge2.roarzone.info:8443/roarzone/bk/51/index.m3u8?token=04cb548faf11e57400da38610bbb5c778f26ae96-9a9c9a6c3f0f7300df950a3af9e23979-1767677139-1767673539
-mohona tv
-https://edge2.roarzone.info:8443/roarzone/bk/50/index.m3u8?token=d29a4b146bebe1fb1ef881b6ef384050502b8bf4-62a1d8eb03e53fff4e354745bca650e9-1767677139-1767673539
-movie bangla tv
-https://edge2.roarzone.info:8443/roarzone/bk/86/index.m3u8?token=6a26c2750c35b6128cf8c19ccacf15e6bfea3bfb-49a23a96922b756367aaecc057127f22-1767677139-1767673539
-my tv
-https://edge2.roarzone.info:8443/roarzone/bk/56/index.m3u8?token=fc8b9c44fb71795215c76a6d34b7e5bbc3ea36c2-e37a41d0a49e71a1507a78f5b86936bc-1767677139-1767673539
-news24
-https://edge2.roarzone.info:8443/roarzone/bk/18/index.m3u8?token=3927642fd26453209bc5d123f2c83022d98ff0d1-d8b944777d3cab5e8a618ba7fb80d13c-1767677139-1767673539
-ntv
-https://edge2.roarzone.info:8443/roarzone/bk/54/index.m3u8?token=6cbff6593196cf68ea9926516fbdfcbad336357d-ad4219ca8abbcc4979ec558cfd02411a-1767677139-1767673539
-rtv
-https://edge2.roarzone.info:8443/roarzone/bk/14/index.m3u8?token=21ccc03e9e53dfc1cc4f59b8d640c1cf9a2d60aa-99bf04bc96b411471ca735fa180ae726-1767677139-1767673539
-sa tv
-https://edge2.roarzone.info:8443/roarzone/bk/15/index.m3u8?token=90e35c801932abd96a8c91e698be011eca89547f-7734d454c11f2eb77ce7eb548a799264-1767677139-1767673539
-sangsad tv
-https://edge2.roarzone.info:8443/roarzone/bk/88/index.m3u8?token=6a4c7c16a20dfcf35d0e43ccc8dd373ce8b41093-94f4180b689f3aca4c7b957aa476ad48-1767677139-1767673539
-ekhon
-https://edge2.roarzone.info:8443/roarzone/edge2/ekhontv/index.m3u8?token=f474e60b73e9be383732807cb5eb37e5133cfbb8-17c284936c58d18b936f1cf36157e0e8-1767677139-1767673539
-bijoy-tv
-https://edge2.roarzone.info:8443/roarzone/ext/bijoy-tv/index.m3u8?token=6d932ddab382ec6337ef162f3bf927c849f1e44b-fcb2eeff537743fd01e6a6083887ebee-1767677139-1767673539
-
+383	#EXTINF:-1 , Aakash Aath
+384	https://ultrashort.info/Z7cEes
+385	#EXTINF:-1 ,SUN BANGLA
+386	http://103.182.170.32:8888/play/a01v
+387	#EXTINF:-1 ,KOLKATA TV
+388	https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+389	#EXTINF:-1 ,ENTER10 BANGLA
+390	https://cdn-4.pishow.tv/live/241/master.m3u8
+391	#EXTINF:-1 ,STAR BHARAT 
+392	http://87.255.35.150:18853/
+393	#EXTINF:-1 ,Colors RISHTEY
+394	http://87.255.35.150:18886
+395	#EXTINF:-1 ,Colors Kannada
+396	http://87.255.35.150:18940
+397	#EXTINF:-1 ,Colors TAMIL HD
+398	http://87.255.35.150:18225
+399	#EXTINF:-1 ,Colors MARATHI HD
+400	http://87.255.35.150:18233
+401	#EXTINF:-1 ,Colors Bangla HD
+402	http://87.255.35.150:18236/
+403	#EXTINF:-1 ,ZEE CAFE HD
+404	http://103.182.170.32:8888/play/a01w
+405	#EXTINF:-1 ,GEMINI HD
+406	http://87.255.35.150:18856
+407	#EXTINF:-1 ,GEMINI MUSIC HD
+408	http://87.255.35.150:18857
+409	#EXTINF:-1 ,9X JALWA
+410	http://202.164.50.194:8000/play/a01h/index.m3u8
+411	#EXTINF:-1 ,PTV HOME
+412	http://163.61.227.29:8000/play/a05k/index.m3u8
+413	#EXTINF:-1 ,Gemini Comedy
+414	http://87.255.35.150:18858
+415	#EXTINF:-1 ,SUN NEWS HD
+416	http://87.255.35.150:18852
+417	#EXTINF:-1 ,ZEE BHARAT
+418	http://202.164.50.194:8000/play/a04m/index.m3u8
+419	#EXTINF:-1 ,ASIAN PLUS HD
+420	http://87.255.35.150:18831
+421	#EXTINF:-1 ,ASIANET HD
+422	http://87.255.35.150:18822
+423	#EXTINF:-1 , ETV HD
+424	http://87.255.35.150:18845
+425	#EXTINF:-1 , JAYA TV HD
+426	http://87.255.35.150:18820
+427	#EXTINF:-1 , STAR MAA TAMIL 
+428	http://87.255.35.150:18817
+429	#EXTINF:-1 , STAR MUSIC TAMIL 
+430	http://87.255.35.150:18816
+431	#EXTINF:-1 , STAR MAA GOLD 
+432	http://87.255.35.150:18815
+433	#EXTINF:-1 , K TV HD
+434	http://87.255.35.150:18805
+435	#EXTINF:-1 , ZEE TAMIL
+436	http://87.255.35.150:18876
+437	#EXTINF:-1 ,Hum Masala
+438	http://163.61.227.29:8000/play/a02g/index.m3u8
+439	#EXTINF:-1 ,The Q Kahaniyan
+440	http://163.61.227.29:8000/play/a04v/index.m3u8
+441	#EXTINF:-1 ,The Q
+442	http://202.164.50.194:8000/play/a02e/index.m3u8
+443	#EXTINF:-1 ,BBC NEWS
+444	http://45.148.145.57/IN_BN/index.m3u8
+445	#EXTINF:-1,FOX NEWS
+446	https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+447	#EXTINF:-1 ,TRAVEL XP HD 
+448	http://103.182.170.32:8888/play/a01x
+449	#EXTINF:-1 ,TLC HD
+450	http://103.182.170.32:8888/play/a01q
+451	#EXTINF:-1 , Kappa TV 
+452	http://87.255.35.150:18916
+453	#EXTINF:-1 , SANGEET BANGLA
+454	https://cdn-4.pishow.tv/live/1143/master.m3u8
+455	#EXTINF:-1 , 9X TASHAN
+456	http://87.255.35.150:18227
+457	#EXTINF:-1 ,Dhoom Music
+458	https://mumt03.tangotv.in/DHOOM/index.m3u8
+459	#EXTINF:-1 , SHOWBOX
+460	http://163.61.227.29:8000/play/a045/index.m3u8
+461	#EXTINF:-1 , Yrf Music
+462	https://ultrashort.info/bwswWI
+463	#EXTINF:-1 ,E24
+464	http://202.164.50.194:8000/play/a04y/index.m3u8
+465	#EXTINF:-1 ,SANGEET BANGLA
+466	https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+467	#EXTINF:-1 ,Cartoon Network Hindi
+468	http://103.182.170.32:8888/play/a04o
+469	#EXTINF:-1 , HUNGAMA
+470	http://87.255.35.150:18811
+471	#EXTINF:-1 , DISCOVERY KIDS
+472	http://87.255.35.150:18902
+473	#EXTINF:-1 ,DISNEY
+474	http://103.182.170.32:8888/play/a04g
+475	#EXTINF:-1 , Disney Junior
+476	http://103.182.170.32:8888/play/a03q
+477	#EXTINF:-1 ,DISNEY INTERNATIONAL HD
+478	http://103.182.170.32:8888/play/a01y
+479	#EXTINF:-1 , NICK JR
+480	http://87.255.35.150:18252
+481	#EXTINF:-1 , NICK 
+482	http://103.182.170.32:8888/play/a04q
+483	#EXTINF:-1 , NICK JUNIOR
+484	http://103.182.170.32:8888/play/a02q
+485	#EXTINF:-1 ,POGO
+486	http://103.182.170.32:8888/play/a02p
+487	#EXTINF:-1 ,SONY YAY
+488	http://103.182.170.32:8888/play/a04m
+489	#EXTINF:-1 ,Sonic Hindi
+490	http://103.182.170.32:8888/play/a02s
+491	#EXTINF:-1 , MANORANJAN MOVIES
+492	https://cdn-2.pishow.tv/live/228/master.m3u8
+493	#EXTINF:-1 ,Food Food
+494	http://202.164.50.194:8000/play/a025/index.m3u8
+495	#EXTINF:-1 ,Food Food
+496	https://mumt03.tangotv.in/FOODFOOD/index.m3u8
+497	#EXTINF:-1 ,9x Jhakkas
+498	http://202.164.50.194:8000/play/a017/index.m3u8
+499	#EXTINF:-1 , MANORANJAN GRAND
+500	http://202.164.50.194:8000/play/a00h/index.m3u8
+501	#EXTINF:-1 , FASHION TV
+502	http://163.61.227.29:8000/play/a03v/index.m3u8
+503	#EXTINF:-1 , PLANET FUN
+504	http://163.61.227.29:8000/play/a03w/index.m3u8
+505	#EXTINF:-1 ,GUBBARE
+506	https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+507	#EXTINF:-1 , KIDS ZONE
+508	http://163.61.227.29:8000/play/a03x/index.m3u8
+509	#EXTINF:-1 ,Cartoon Network Hindi 
+510	http://163.61.227.29:8000/play/a064/index.m3u8
