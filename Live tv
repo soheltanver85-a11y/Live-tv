@@ -8,7 +8,8 @@ https://bongoflixbd.top/jamunatv.m3u8?user=bongoflix&pass=eaminvai
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 
 
-#EXTINF:-1,independ tv
+#EXTINF:-1 
+tvg-logo="https://i.postimg.cc/J7GxLdwm/images-(2).jpg", independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 
 #EXTINF:-1,dbc
