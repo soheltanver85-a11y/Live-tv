@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjB3CDN1/unnamed.png",Jamuna TV
-https://bongoflixbd.top/jamunatv.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJXz02kD/images.png",somoy tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
@@ -10,16 +10,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J7GxLdwm/images-(2).jpg",Independent TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 
-#EXTINF:-1,dbc
-https://bongoflixbd.top/bk/7.m3u8?user=bongoflix&pass=eaminvai
+
 
 #EXTINF:-1 ,Animal Planet
 http://103.140.254.2:3500/live/567.m3u8
 
 
-
-#EXTINF:-1,discovery
-https://bongoflixbd.top/bk/83.m3u8?user=bongoflix&pass=eaminvai
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Information",Discovery Hindi HD
 #https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
@@ -35,42 +31,7 @@ http://103.60.204.26:3255/Discovery/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLwgMwp0/images-(3).jpg",t Sports
-https://bongoflixbd.top/tsports.m3u8?user=bongoflix&pass=eaminvai
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjsXxLZg/images.jpg",Sony YAY!
-https://bongoflixbd.top/toffee/sonyyay.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C1LsQc0R/images-(1).png",G TV
-https://bongoflixbd.top/gazitv.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Dyj0r5jH/images-(4).jpg",channel 24
-https://bongoflixbd.top/channel24.m3u8?user=bongoflix&pass=eaminvai
-
-
- #EXTINF:-1 tvg-logo="https://i.postimg.cc/RC3vr9X7/images.webp",Star jalsha
-https://bongoflixbd.top/bk/30.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHk1RLTB/download.jpg",zee Bangla 
-https://bongoflixbd.top/bk/34.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g24sxhHJ/images-(1).webp",সনি আট
-https://bongoflixbd.top/bk/33.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cKW1dVd/images-(5).jpg",জলসা মুভি 
-https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/htbDTDf3/hqdefault.jpg",colours 
-https://bongoflixbd.top/bk/31.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/43G3S8Kt/images-(6).jpg",& tv
-https://bongoflixbd.top/bk/74.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfTxJfXP/images-(7).jpg",& picture 
-https://bongoflixbd.top/bk/100.m3u8?user=bongoflix&pass=eaminvai
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tZ2N61/Star-Movies-2023-svg.png",star movie 
-https://bongoflixbd.top/bk/tracks-a1/mono.m3u8?token=978ba02a0f11d945e9da3f6bc541d9909e2b0eb6-e507430fe94c019342d8a5ff87f89251-1767803274-1767799674
 
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
