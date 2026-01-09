@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d98JbPN/images.jpg",jamuna tv
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/jamuna_tv_576/jamuna_tv_576.m3u8?bitrate=1000000&channel=jamuna_tv_576&gp_id=
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PJXz02kD/images.png",somoy tv
