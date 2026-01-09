@@ -11,7 +11,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 
 
 
-#EXTINF:-1 ,Animal Planet
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNymypJ/images.png",animal planet
 http://103.140.254.2:3500/live/567.m3u8
 
 
