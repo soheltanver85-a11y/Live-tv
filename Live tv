@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4d98JbPN/images.jpg",jamuna tv
-
-
 
 
 
@@ -44,6 +41,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxJf4Fnm/images-(1).jpg",channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KzxwhDvC/images-(1).png",somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
 
 
