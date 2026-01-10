@@ -9,10 +9,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Bangla",ATN Bangla
-#https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
-#https://bdcast-free.b-cdn.net/jago/0/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7hNymypJ/images.png",animal planet
@@ -48,15 +44,11 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="Akash Go",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
-
-#EXTINF:-1 group-title="Bangla" tvg-id="MUSICBANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg",MUSIC BANGLA
-http://live.matribhumitv.com/music-bangla/index.m3u8
 
 
-#EXTINF:-1 group-title="Bangla" tvg-id="MAASRANGA.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",MAASRANGA HD
-http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
+
+
+
 
 #EXTM3U
 #EXTINF:-1,Ekattor TV
