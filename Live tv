@@ -60,3 +60,7 @@ http://live.matribhumitv.com/music-bangla/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="MAASRANGA.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",MAASRANGA HD
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
+#EXTM3U
+#EXTINF:-1,Ekattor TV
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ekattor_tv_576/ekattor_tv_576.m3u8?bitrate=1000000&channel=ekattor_tv_576&gp_id
+
