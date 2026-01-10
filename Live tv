@@ -4,8 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJXz02kD/images.png",somoy tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
+
 
 
 
@@ -41,8 +40,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" group-title="BANGLA",Deshe Bideshe
-https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
 
@@ -50,7 +47,5 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
 
-#EXTM3U
-#EXTINF:-1,Ekattor TV
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/ekattor_tv_576/ekattor_tv_576.m3u8?bitrate=1000000&channel=ekattor_tv_576&gp_id
+
 
