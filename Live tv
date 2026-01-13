@@ -43,10 +43,3 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzxwhDvC/images-(1).png",somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1,tv
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1768079772/ei/PG1iaejBJcPC9fwPvN_UgQE/ip/202.134.14.147/id/x0Yox5Tvu6Y.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr6---sn-gvcp5mp5u5-q5j6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/bui/AW-iu_qLcFCIukChRMTmXsYgwNPm83w8DlCp1tU13E6kui67fjuc8MST4ITV1lHHUgK5dj4TkP4XePrp/spc/q5xjPKL5Xxt-dok_k737_m-lqdAj2C3zJnBD-BLDUqwSvvrxR4_v74uumCY/vprv/1/playlist_type/DVR/initcwndbps/353750/met/1768058173,/mh/Nz/mm/44/mn/sn-gvcp5mp5u5-q5j6/ms/lva/mv/m/mvi/6/pl/24/rms/lva,lva/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51552689,51565116,51565682,51580968/mt/1768057714/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgJb9lRzIVZZ1npl4xFiVU7u-OsmL_p_4BkZkBJpeOX1YCICsgFVrWKGqGGTpGenmsTv6TZpDMqnb8DP4cLpleASH7/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMKslyYc5cNZWpNEVfXUp1BxH8k8Emwl8UeL3JLp8AElAiAZEOhkFEtfeZPXF9xPu8cOAUCWVMaDZnr67XOo6muDCw%3D%3D/playlist/index.m3u8
-
-
-
-
-
