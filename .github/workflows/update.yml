@@ -1,7 +1,7 @@
-name: Auto Update Working BD Channels
+name: Update Working BD Channels
 on:
   schedule:
-    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টায় অটো চেক করবে
+    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টায় অটো আপডেট হবে
   workflow_dispatch:
 
 jobs:
@@ -11,27 +11,29 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch and Filter Working BD Channels
+      - name: Append Online Channels
         run: |
-          # ১. অনলাইন থেকে লোগো এবং ক্যাটাগরিসহ সচল বাংলাদেশি চ্যানেল সংগ্রহ
-          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_temp.m3u
+          # ১. অনলাইন থেকে সচল বাংলাদেশি চ্যানেল সংগ্রহ
+          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_online.m3u
           
-          # ২. ফাইলটি তৈরি করা (আপনার আগের ফাইলের নাম "Live tv" বজায় রাখা হলো)
-          echo "#EXTM3U" > "Live tv"
+          # ২. আপনার নিজের ব্যক্তিগত প্লেলিস্ট (Live tv ফাইল) সুরক্ষিত রাখা
+          # আপনার ফাইলের শেষে যদি কোনো নতুন লাইন না থাকে তবে একটি যোগ করা হচ্ছে
+          echo "" >> "Live tv"
           
-          # ৩. শুধুমাত্র সচল লিঙ্ক, লোগো এবং ক্যাটাগরি তথ্যগুলো ফিল্টার করে আনা
-          grep -E "EXTINF|http" bd_temp.m3u | grep -v "#EXTM3U" >> "Live tv"
+          # ৩. আপনার লিঙ্কের নিচে নতুন চ্যানেলগুলো যোগ করা (চিহ্নিত করে রাখা)
+          echo -e "\n# --- Auto Added Online Channels (Logos & Categories Included) ---" >> "Live tv"
+          grep -E "EXTINF|http" bd_online.m3u | grep -v "#EXTM3U" >> "Live tv"
           
           # ৪. আপডেট টাইম যোগ করা
           echo -e "\n# Last Auto Update: $(date)" >> "Live tv"
           
           # টেম্পোরারি ফাইল মুছে ফেলা
-          rm bd_temp.m3u
+          rm bd_online.m3u
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "Live tv"
-          git commit -m "Updated BD Channels with Logos & Categories" || echo "No changes"
+          git commit -m "Merged online channels with your playlist" || echo "No changes"
           git push
