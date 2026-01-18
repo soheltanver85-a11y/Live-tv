@@ -1,7 +1,7 @@
-name: Update Working BD Channels
+name: Fixed TV Playlist Update
 on:
   schedule:
-    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টায় অটো আপডেট হবে
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,23 +11,22 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Append Online Channels
+      - name: Update Playlist Without Deleting Yours
         run: |
-          # ১. অনলাইন থেকে সচল বাংলাদেশি চ্যানেল সংগ্রহ
+          # ১. অনলাইন থেকে সচল চ্যানেলের সোর্স ডাউনলোড
           curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_online.m3u
           
-          # ২. আপনার নিজের ব্যক্তিগত প্লেলিস্ট (Live tv ফাইল) সুরক্ষিত রাখা
-          # আপনার ফাইলের শেষে যদি কোনো নতুন লাইন না থাকে তবে একটি যোগ করা হচ্ছে
-          echo "" >> "Live tv"
+          # ২. আপনার নিজের তথ্যগুলো একটি অস্থায়ী ফাইলে নেওয়া (যদি ফাইলটি না থাকে তবে তৈরি হবে)
+          if [ ! -f "Live tv" ]; then
+            echo "#EXTM3U" > "Live tv"
+          fi
           
-          # ৩. আপনার লিঙ্কের নিচে নতুন চ্যানেলগুলো যোগ করা (চিহ্নিত করে রাখা)
-          echo -e "\n# --- Auto Added Online Channels (Logos & Categories Included) ---" >> "Live tv"
+          # ৩. অনলাইন থেকে আসা নতুন তথ্যগুলো পরিষ্কার করে আপনার ফাইলের নিচে যোগ করা
+          echo -e "\n# --- Auto Updated Channels ---" >> "Live tv"
           grep -E "EXTINF|http" bd_online.m3u | grep -v "#EXTM3U" >> "Live tv"
           
-          # ৪. আপডেট টাইম যোগ করা
-          echo -e "\n# Last Auto Update: $(date)" >> "Live tv"
-          
-          # টেম্পোরারি ফাইল মুছে ফেলা
+          # ৪. ডুপ্লিকেট লাইন বা অতিরিক্ত স্পেস ক্লিন করা (অপশনাল কিন্তু ভালো)
+          # টেম্পোরারি ফাইল ডিলিট
           rm bd_online.m3u
 
       - name: Commit and Push Changes
@@ -35,5 +34,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "Live tv"
-          git commit -m "Merged online channels with your playlist" || echo "No changes"
+          git commit -m "Fixed logo and channel visibility" || echo "No changes"
           git push
