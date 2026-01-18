@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/soheltanver85-a11y/Logo/main/NTV.png",NTV
+https://tvsen1.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg", Jamuna TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/mono.m3u8
@@ -44,3 +47,8 @@ https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzxwhDvC/images-(1).png",somoy TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
+#EXTINF:-1 tvg-id="ZB Cinema" tvg-name="ZB Cinema" tvg-logo="https://raw.githubusercontent.com/soheltanver85-a11y/Logo/main/ZB%20Cinema.png",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="ZB Cinema" tvg-name="ZB Cinema" tvg-logo="https://raw.githubusercontent.com/soheltanver85-a11y/Logo/main/ZB%20Cinema.png",ZB Cinema
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
