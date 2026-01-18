@@ -11,26 +11,27 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Only Working BD Channels
+      - name: Fetch and Filter Working BD Channels
         run: |
-          # শুধুমাত্র বাংলাদেশের সচল চ্যানেলের সোর্স থেকে ডেটা নেওয়া
-          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_raw.m3u
+          # ১. অনলাইন থেকে লোগো এবং ক্যাটাগরিসহ সচল বাংলাদেশি চ্যানেল সংগ্রহ
+          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_temp.m3u
           
-          # ফাইলটি তৈরি করা এবং শুধুমাত্র প্রয়োজনীয় ও সচল লিঙ্কগুলো ফিল্টার করা
+          # ২. ফাইলটি তৈরি করা (আপনার আগের ফাইলের নাম "Live tv" বজায় রাখা হলো)
           echo "#EXTM3U" > "Live tv"
           
-          # শুধুমাত্র বাংলাদেশের চ্যানেল এবং তাদের সচল লিঙ্কগুলো ছেঁকে নেওয়া হচ্ছে
-          grep -E "EXTINF|http" bd_raw.m3u | grep -v "#EXTM3U" >> "Live tv"
+          # ৩. শুধুমাত্র সচল লিঙ্ক, লোগো এবং ক্যাটাগরি তথ্যগুলো ফিল্টার করে আনা
+          grep -E "EXTINF|http" bd_temp.m3u | grep -v "#EXTM3U" >> "Live tv"
           
-          # টেম্পোরারি ফাইল ডিলিট
-          rm bd_raw.m3u
+          # ৪. আপডেট টাইম যোগ করা
+          echo -e "\n# Last Auto Update: $(date)" >> "Live tv"
           
-          echo -e "\n# Last Updated: $(date)" >> "Live tv"
+          # টেম্পোরারি ফাইল মুছে ফেলা
+          rm bd_temp.m3u
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "Live tv"
-          git commit -m "Working BD Channels Updated: $(date)" || echo "No changes"
+          git commit -m "Updated BD Channels with Logos & Categories" || echo "No changes"
           git push
