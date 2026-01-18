@@ -1,8 +1,8 @@
-name: Auto Update TV Links
+name: Auto Update BD and Indian TV
 on:
   schedule:
-    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টা পর পর অটো আপডেট হবে
-  workflow_dispatch:      # আপনি চাইলে নিজেও যেকোনো সময় 'Run' করতে পারবেন
+    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টায় অটো আপডেট হবে
+  workflow_dispatch:
 
 jobs:
   update_links:
@@ -11,11 +11,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Working Links
+      - name: Fetch Popular BD and IN Channels
         run: |
-          # এখানে আমরা একটি সোর্স থেকে লিঙ্কগুলো সংগ্রহ করছি
-          # আপনি চাইলে অন্য কোনো সোর্স লিঙ্কও এখানে দিতে পারেন
-          curl -s https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8 > "Live tv"
+          # জনপ্রিয় বাংলাদেশি চ্যানেল সংগ্রহ
+          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_temp.m3u
+          # জনপ্রিয় ইন্ডিয়ান চ্যানেল সংগ্রহ
+          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u > in_temp.m3u
+          
+          # ফাইল দুটিকে একত্র করা এবং ডুপ্লিকেট বাদ দেওয়া
+          echo "#EXTM3U" > "Live tv"
+          grep -E "EXTINF|http" bd_temp.m3u | grep -v "#EXTM3U" >> "Live tv"
+          grep -E "EXTINF|http" in_temp.m3u | grep -v "#EXTM3U" >> "Live tv"
+          
+          # অপ্রয়োজনীয় ফাইল ডিলিট
+          rm bd_temp.m3u in_temp.m3u
+          
           echo -e "\n# Last Updated: $(date)" >> "Live tv"
 
       - name: Commit and Push Changes
@@ -23,5 +33,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "Live tv"
-          git commit -m "TV Links Auto Updated: $(date)" || echo "No changes found"
+          git commit -m "Popular BD & IN Links Updated: $(date)" || echo "No changes"
           git push
