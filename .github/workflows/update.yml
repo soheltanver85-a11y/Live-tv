@@ -1,26 +1,27 @@
-name: Auto Update Link
+name: Auto Update TV Links
 on:
   schedule:
-    - cron: '0 0 * * *' # প্রতিদিন বাংলাদেশ সময় ভোর ৬টায় চলবে
-  workflow_dispatch:      # আপনি চাইলে নিজেও বাটন টিপে চালাতে পারবেন
+    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টা পর পর অটো আপডেট হবে
+  workflow_dispatch:      # আপনি চাইলে নিজেও যেকোনো সময় 'Run' করতে পারবেন
 
 jobs:
-  build:
+  update_links:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Update Live tv File
+      - name: Fetch Working Links
         run: |
-          # এটি আপনার 'Live tv' ফাইলে বর্তমান সময় লিখে দেবে
-          echo "Last Updated: $(date)" > "Live tv"
+          # এখানে আমরা একটি সোর্স থেকে লিঙ্কগুলো সংগ্রহ করছি
+          # আপনি চাইলে অন্য কোনো সোর্স লিঙ্কও এখানে দিতে পারেন
+          curl -s https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8 > "Live tv"
+          echo -e "\n# Last Updated: $(date)" >> "Live tv"
 
-      - name: Commit and Push
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Auto Update: $(date)"
+          git add "Live tv"
+          git commit -m "TV Links Auto Updated: $(date)" || echo "No changes found"
           git push
-          
