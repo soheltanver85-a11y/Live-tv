@@ -1,7 +1,7 @@
-name: Auto Update BD and Indian TV
+name: Auto Update Working BD Channels
 on:
   schedule:
-    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টায় অটো আপডেট হবে
+    - cron: '0 */12 * * *' # প্রতি ১২ ঘণ্টায় অটো চেক করবে
   workflow_dispatch:
 
 jobs:
@@ -11,20 +11,19 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Fetch Popular BD and IN Channels
+      - name: Fetch Only Working BD Channels
         run: |
-          # জনপ্রিয় বাংলাদেশি চ্যানেল সংগ্রহ
-          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_temp.m3u
-          # জনপ্রিয় ইন্ডিয়ান চ্যানেল সংগ্রহ
-          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/in.m3u > in_temp.m3u
+          # শুধুমাত্র বাংলাদেশের সচল চ্যানেলের সোর্স থেকে ডেটা নেওয়া
+          curl -s https://raw.githubusercontent.com/iptv-org/iptv/master/streams/bd.m3u > bd_raw.m3u
           
-          # ফাইল দুটিকে একত্র করা এবং ডুপ্লিকেট বাদ দেওয়া
+          # ফাইলটি তৈরি করা এবং শুধুমাত্র প্রয়োজনীয় ও সচল লিঙ্কগুলো ফিল্টার করা
           echo "#EXTM3U" > "Live tv"
-          grep -E "EXTINF|http" bd_temp.m3u | grep -v "#EXTM3U" >> "Live tv"
-          grep -E "EXTINF|http" in_temp.m3u | grep -v "#EXTM3U" >> "Live tv"
           
-          # অপ্রয়োজনীয় ফাইল ডিলিট
-          rm bd_temp.m3u in_temp.m3u
+          # শুধুমাত্র বাংলাদেশের চ্যানেল এবং তাদের সচল লিঙ্কগুলো ছেঁকে নেওয়া হচ্ছে
+          grep -E "EXTINF|http" bd_raw.m3u | grep -v "#EXTM3U" >> "Live tv"
+          
+          # টেম্পোরারি ফাইল ডিলিট
+          rm bd_raw.m3u
           
           echo -e "\n# Last Updated: $(date)" >> "Live tv"
 
@@ -33,5 +32,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "Live tv"
-          git commit -m "Popular BD & IN Links Updated: $(date)" || echo "No changes"
+          git commit -m "Working BD Channels Updated: $(date)" || echo "No changes"
           git push
