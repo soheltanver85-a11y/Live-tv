@@ -1,0 +1,26 @@
+name: Auto Update Link
+on:
+  schedule:
+    - cron: '0 0 * * *' # প্রতিদিন বাংলাদেশ সময় ভোর ৬টায় চলবে
+  workflow_dispatch:      # আপনি চাইলে নিজেও বাটন টিপে চালাতে পারবেন
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Live tv File
+        run: |
+          # এটি আপনার 'Live tv' ফাইলে বর্তমান সময় লিখে দেবে
+          echo "Last Updated: $(date)" > "Live tv"
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto Update: $(date)"
+          git push
+          
