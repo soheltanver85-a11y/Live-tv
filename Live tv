@@ -149,19 +149,15 @@ https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/7JZk2HJh/JALSHA-MOVIES.png",JALSHA MOVIES
 
-http://poketporota.noobmaster.xyz:8080/JALSHAMOVIESHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,#http://103.179.25.147:8181/JalshaMv/tracks-v1a1/mono.ts.m3u8
 
-http://cdnd.sonyplex.com:8090/hls/JalshaMoviesHD.m3u8
+
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/bRLY1vBC/ENTER10-BANGLA.png",ENTER10 BANGLA
 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 ,#http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/126098
 
-http://poketporota.noobmaster.xyz:8080/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIAN BANGLA" tvg-logo="https://i.ibb.co/VWH2BpsS/ZEE-BANGLA-CINEMA.png",ZEE BANGLA CINEMA
 
@@ -213,6 +209,7 @@ https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/rjkYLXb/STAR-BHARAT.png",STAR BHARAT
 
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98855.ts
+
 
 
 
