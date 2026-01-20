@@ -1,9 +1,8 @@
 #EXTM3U
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fh88GKx/images.jpg",
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 
@@ -226,5 +225,6 @@ https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/rjkYLXb/STAR-BHARAT.png",STAR BHARAT
 
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98855.ts
+
 
 
