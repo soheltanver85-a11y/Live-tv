@@ -4,14 +4,16 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fh88GKx/images.jpg",
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
 
+#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/rGFdn8DF/NTV-HD.png",NTV HD
-
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/rRPcs9QG/RTV-HD.png",RTV HD
-
 http://116.204.149.16/rtvhd/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/bRWPFmnc/BOISHAKHI-TV-HD.png",BOISHAKHI TV HD
@@ -42,9 +44,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png",JAMUNA TV
-
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://i.ibb.co.com/9jF2B20/NEWS24-HD.png",NEWS24 HD
 
@@ -209,6 +208,7 @@ https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/rjkYLXb/STAR-BHARAT.png",STAR BHARAT
 
 https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98855.ts
+
 
 
 
