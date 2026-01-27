@@ -192,25 +192,6 @@ https://padmaonline.duckdns.org:8088/ZeeTVHD/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/spM4hr5f/SONY-ENTERTAINMENT-TELEVISION-HD.png",SONY ENTERNMENT HD
-
-http://poketporota.noobmaster.xyz:8080/SONYENTHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/KcCM4FWq/STAR-PLUS.png",STAR PLUS
-
-http://poketporota.noobmaster.xyz:8080/STARPLUSHD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_Plus_HD.png",STAR PLUS HD
-
-https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8
-
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.ibb.co/rjkYLXb/STAR-BHARAT.png",STAR BHARAT
-
-https://dhoomtv.xyz/live/P4B9TB9xR8/humongous2tonight/98855.ts
-
-
-
 #EXTINF:-1 tvg-id="Star Sports 2" tvg-name="Star Sports 2" tvg-logo="https://tvassets.roarzone.info/images/26.png" group-title="sports",Star Sports 2
 https://edge2.roarzone.info:444/roarzone/edge2/star-sports-2/index.m3u8?token=8ccf3609e1564afbdeb39a74dfab95c806f0ff5f-b6fe71733511b673569927db6985c2e6-1768994795-1768983995
 
@@ -330,10 +311,6 @@ https://edge2.roarzone.info:444/roarzone/bk/10/index.m3u8?token=1cf33901f3b1533d
 
 #EXTINF:-1 tvg-id="Movie Bangla TV" tvg-name="Movie Bangla TV" tvg-logo="https://tvassets.roarzone.info/images/86.png" group-title="bangla",Movie Bangla TV
 https://edge2.roarzone.info:444/roarzone/bk/86/index.m3u8?token=80bb52d06decb8f0837af43b43bc17ea6ebf7bf9-868a6f85344e4bac84f83d42ef606b31-1768994795-1768983995
-
-
-
-
 
 
 
