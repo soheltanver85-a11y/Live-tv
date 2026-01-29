@@ -248,6 +248,7 @@ https://edge2.roarzone.info:444/roarzone/bk/86/index.m3u8?token=80bb52d06decb8f0
 
 
 
+-------------------------------------------------
 
 
 
@@ -280,25 +281,25 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD (IND)" tvg-name="SONY SAB HD (IND)" tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
-http://217.20.112.199:8888/sabtvhd/index.m3u8
+https://217.20.112.199:8888/sabtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="Dhoom Music (720p)" tvg-name="Dhoom Music (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" group-title="Music",Dhoom Music (720p)
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 
 #EXTINF:-1 tvg-id="DBC টিভি 🇧🇩" tvg-name="DBC টিভি 🇧🇩" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Bangladeshi 🇧🇩",DBC টিভি 🇧🇩
-http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+https://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
 #EXTINF:-1 tvg-id="9X Jhakaas" tvg-name="9X Jhakaas" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png" group-title="Music",9X Jhakaas
 https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 7" tvg-name="ESPN 7" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="",ESPN 7
-http://201.230.121.186:8000/play/a0dz/index.m3u8
+https://201.230.121.186:8000/play/a0dz/index.m3u8
 
 #EXTINF:-1 tvg-id="Peace TV Bangla" tvg-name="Peace TV Bangla" tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Relagion Channel",Peace TV Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="&TV (576p)" tvg-name="&TV (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&TV (576p)
-http://103.182.170.32:8888/play/a03v
+https://103.182.170.32:8888/play/a03v
 
 #EXTINF:-1 tvg-id="Hinde Dabbing Movies" tvg-name="Hinde Dabbing Movies" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Hinde Dabbing Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
@@ -316,10 +317,10 @@ https://stream.galaxyott.live/live/anandhamtv/index.m3u8
 https://cdn-1.pishow.tv/live/235/master.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="",HBO
-http://185.18.56.26:8888/hbo1/index.m3u8
+https://185.18.56.26:8888/hbo1/index.m3u8
 
 #EXTINF:-1 tvg-id="Unique TV (576p)" tvg-name="Unique TV (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png" group-title="Entertainment;Kids",Unique TV (576p)
-http://103.78.149.54:8000/play/a01e/index.m3u8
+https://103.78.149.54:8000/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="ZB Cartoon" tvg-name="ZB Cartoon" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
@@ -328,7 +329,7 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://cdn-1.pishow.tv/live/1011/master.m3u8
 
 #EXTINF:-1 tvg-id="Movie Bangla" tvg-name="Movie Bangla" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Bangla Movies",Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
+https://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="Live Sports" tvg-name="Live Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Live Sports",Live Sports
 https://starsportshindiii.pages.dev/index.m3u8
@@ -337,7 +338,7 @@ https://starsportshindiii.pages.dev/index.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 
 #EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Kids",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Goldmines Movies" tvg-name="Goldmines Movies" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
@@ -358,7 +359,7 @@ https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery UK" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Information",Discovery UK
-http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Goldmines Movies 2" tvg-name="Goldmines Movies 2" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
@@ -367,7 +368,7 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8
 
 #EXTINF:-1 tvg-id="🚨নাগরিক TV 🎯 📡" tvg-name="🚨নাগরিক TV 🎯 📡" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",🚨নাগরিক TV 🎯 📡
-http://116.204.149.16/nagorik/index.m3u8
+https://116.204.149.16/nagorik/index.m3u8
 
 #EXTINF:-1 tvg-id="AL ISTIQAMA" tvg-name="AL ISTIQAMA" tvg-logo="https://i.ibb.co/HPzRmd3/alistiqama.png" group-title="ISLAMIC CHANNELS",AL ISTIQAMA
 https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
@@ -403,13 +404,13 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="",HBO2
-http://185.18.56.26:8888/hbo2/index.m3u8
+https://185.18.56.26:8888/hbo2/index.m3u8
 
 #EXTINF:-1 tvg-id="QURAN KAREEM TV" tvg-name="QURAN KAREEM TV" tvg-logo="https://i.ibb.co/f0cKj4S/kareem.jpg" group-title="ISLAMIC CHANNELS",QURAN KAREEM TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
 #EXTINF:-1 tvg-id="Hindi Hits HD" tvg-name="Hindi Hits HD" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Hindi Music",Hindi Hits HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
+https://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="DD Sports 2.0" tvg-name="DD Sports 2.0" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",DD Sports 2.0
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
@@ -421,13 +422,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Destination America" tvg-name="Destination America" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment Channels",Destination America
-http://fl1.moveonjoy.com/Destination_America/index.m3u8
+https://fl1.moveonjoy.com/Destination_America/index.m3u8
 
 #EXTINF:-1 tvg-id="24/7 Shinchan" tvg-name="24/7 Shinchan" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Bangladeshi 🇧🇩",24/7 Shinchan
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 
 #EXTINF:-1 tvg-id="Sport 1 HD" tvg-name="Sport 1 HD" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Football",Sport 1 HD
-http://178.23.88.55/Sport1/index.m3u8
+https://178.23.88.55/Sport1/index.m3u8
 
 #EXTINF:-1 tvg-id="Colors HD" tvg-name="Colors HD" tvg-logo="https://i.ibb.co/9grLJCS/fone22.png" group-title="Entertainment",Colors HD
 https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8
@@ -438,11 +439,11 @@ https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 tvg-id="TV9 Bangla" tvg-name="TV9 Bangla" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png" group-title="Indian Bangla News",TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dhamaal (576p)" tvg-name="Dhamaal (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Music",Dhamaal (576p)
+#EXTINF:-1 tvg-id="Dhamaal (576p)" tvg-name="Dhamaal (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/.png" group-title="Music",Dhamaal (576p)
 https://cdn-1.pishow.tv/live/1291/master.m3u8
 
 #EXTINF:-1 tvg-id="Sky SPORT Cricket HD 🚨🎯 📡 ⚙️ 📺 🚨" tvg-name="Sky SPORT Cricket HD 🚨🎯 📡 ⚙️ 📺 🚨" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sky SPORT Cricket HD 🚨🎯 📡 ⚙️ 📺 🚨
-http://178.33.239.54:8080/503a/index.m3u8
+https://178.33.239.54:8080/503a/index.m3u8
 
 #EXTINF:-1 tvg-id="B4U MUSIC (IND)" tvg-name="B4U MUSIC (IND)" tvg-logo=" " group-title="TERRESTRIAL TV",B4U MUSIC (IND)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
@@ -463,10 +464,10 @@ https://mumt03.tangotv.in/BFLIX/index.m3u8
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY LIFE" tvg-name="DISCOVERY LIFE" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Infotainment Channels",DISCOVERY LIFE
-http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="Eurosport_2" tvg-name="Eurosport_2" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Football",Eurosport_2
-http://178.23.88.55/Eurosport_2/index.m3u8
+https://178.23.88.55/Eurosport_2/index.m3u8
 
 #EXTINF:-1 tvg-id="WAZ TV 🎯 📡" tvg-name="WAZ TV 🎯 📡" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
@@ -475,14 +476,13 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports Mix" tvg-name="Sky Sports Mix" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sky Sports Mix
-http://178.33.239.54:8080/507a/index.m3u8
+https://178.33.239.54:8080/507a/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK (IND)" tvg-name="CARTOON NETWORK (IND)" tvg-logo=" " group-title="TERRESTRIAL TV",CARTOON NETWORK (IND)
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peace tv Bangla" tvg-name="Peace tv Bangla" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="ISLAMIC CHANNELS",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
-
 
 
 
