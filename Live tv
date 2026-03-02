@@ -1,4 +1,5 @@
 #EXTM3U
+http://103.144.89.251:8082/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=ec32b0334ffd4f03a9a260aba8ceed04285b14f0-5d6d9da88fef2cc6869425060f735418-1772484637-1772473837
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqy3Gk57/images.jpg",T Sports
 https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u8
