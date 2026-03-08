@@ -1,7 +1,5 @@
 #EXTM3U
-http://103.144.89.251:8082/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=ec32b0334ffd4f03a9a260aba8ceed04285b14f0-5d6d9da88fef2cc6869425060f735418-1772484637-1772473837
 
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/tracks-v1a1/mono.m3u8?token=01bbb2fbecef9b94129198d1d4dc4359bdf7fa5a-fef2ff253fa6a5a0740808adca1d203b-1772476693-1772473093
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqy3Gk57/images.jpg",T Sports
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
