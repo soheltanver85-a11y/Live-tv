@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Pqy3Gk57/images.jpg",T Sports
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+https://tvsen7.aynascope.net/tsports-hd/tracks-v1a1/mono.ts.m3u8?e=1773500561&token=f3a7ae5992d3c66db29cab3f76689015&u=ee5437a7-c16b-4700-b317-a41b77d5cba9
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="Bangladesh",SOMOY TV HD
 #http://116.204.149.16/somoytv/index.m3u8
