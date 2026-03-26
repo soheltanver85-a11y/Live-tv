@@ -85,8 +85,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
 #EXTINF:-1 tvg-id="tsports" tvg-logo="https://example.com/tsports.png" group-title="Sports", T-Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10)
-http://172.19.178.29:18190/AO-E01-02/tracks-a1/index.fmp4.m3u8?token=dff4c98c74618993268639025f65f36b18c6a74b-6b9bbac6f80d2645bb29fe9f40821ef5-1774519779-1774508679
-
+http://172.19.178.29:18190/SN-E01-01/index.fmp4.m3u8?token=f8bb4f1589389f2f1750c722b85a088d60aba055-a01a4cc13fe72e60bcbe9837a4d86dde-1774520210-1774509110
 
 
 
