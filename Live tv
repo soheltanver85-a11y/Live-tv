@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/yNRspMT6/images.jpg",BAN VS PAK
+#EXTINF:-1 https://i.postimg.cc/zf1xQZ5Y/IMG-20260324-165404-654.jpg",BAN VS PAK
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/level_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="Bangladesh",SOMOY TV HD
