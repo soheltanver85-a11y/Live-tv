@@ -1,14 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" 
-tvg-logo="https://i.postimg.cc/Dm33G9K0/T-Sports-logo-svg-(1).png"", T Sports 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png", T Sports 
 https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo=" https://i.postimg.cc/zf1xQZ5Y/IMG-20260324-165404-654.jpg", Sports
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/level_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="Bangladesh",SOMOY TV HD
-#http://116.204.149.16/somoytv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png" group-title="Bangladesh",JAMUNA TV
