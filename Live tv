@@ -3,8 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png",T Sports 
 https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg",star Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="Bangladesh",SOMOY TV HD
 https://tv.ottking.top/webottking/linkchor/166.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/fYCbByKT/SOMOY-TV-HD.png" group-title="Bangladesh",SOMOY TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
