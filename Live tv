@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xdkhxRGc/images.webp" group-title="all",Sony Aath
+https://tv.ottking.top/webottking/linkchor/3.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png",T Sports 
 https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 
