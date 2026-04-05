@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="sports", Star sports
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="sports",Star sports
 https://tv.ottking.top/webottking/linkchor/166.m3u8
 
 
