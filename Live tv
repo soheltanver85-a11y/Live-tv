@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzbDY1QB/2026-IPL-logo.jpg" group-title="Sports",IPL
-https://go.iptvpulse.top/ghhr.m3u
+http://180.94.28.28:8097/BEIN-SPORTS-USA/tracks-a1/index.fmp4.m3u8?token=6b183fcaf67f77ca6e2e87ddee01d925ba20e488-91e8cb5dd5fb33617f7bab5f65de4591-1775757700-1775754100
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="sports",Star sports
