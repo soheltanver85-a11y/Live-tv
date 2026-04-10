@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzbDY1QB/2026-IPL-logo.jpg" group-title="Sports",IPL
-http://180.94.28.28:8097/STAR-SPORTS-1/tracks-a1/index.fmp4.m3u8?token=971335b6573f1ec48a865742507d92c292fe289b-7a7a01a63f8294af688ab414b947dbbf-1775796399-1775792799
+https://backend.plusbox.tv/StarSports1HD/tracks-a1/index.fmp4.m3u8?token=2e980c19570d72c11723747cbfb53beb81734980-badc44dd9ee729a9bd22fa69b9e5b967-1775819668-1775808868
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="sports",Star sports
