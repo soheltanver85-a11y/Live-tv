@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FzbDY1QB/2026-IPL-logo.jpg" group-title="Sports",IPL
-https://corsply-1m6d3p9z.cfcross.workers.dev/?url=https://game.denver69.fun/Series/willow_eng.m3u8
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="sports",Star sports
 https://valverdeaethegoat.hardiksoni85555.workers.dev/live.m3u8
