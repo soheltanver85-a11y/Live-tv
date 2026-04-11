@@ -32,6 +32,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mVvq2Mpr/INDEPENDENT-TV.png" group-title="Bangladesh",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKZyW7QM/images.jpg" tvg-name="News 24" group-title="All",News 24
+https://m3u-bot-fdhu.onrender.com
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMxhVcrT/ATN-NEWS-HD.png" group-title="Bangladesh",ATN NEWS HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
