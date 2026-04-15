@@ -4,7 +4,7 @@
 https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://cdn.gamepass.tv/streams/423902/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/c43q5pgx/images.jpg" group-title="sports",Star sports
-https://mflixott.com/tv/plusbox/live/StarSports1HD/tracks-v1a1/mono.m3u8?token=8eaefc2418b5fda483a8f22858a0a984ec9933a6-31861aee26bc4a3f1751d7b18ef2182a-1776192543-1776181743
+https://json-to-m3u.saemon068.workers.dev/?url=http://180.94.28.28:8097/STAR-SPORTS-1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRwGZQhV/images.jpg" group-title="Sports",ptv sports
