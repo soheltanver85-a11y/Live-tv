@@ -8,7 +8,7 @@ https://mflixott.com/tv/plusbox/live/StarSports1HD/tracks-v1a1/mono.m3u8?token=8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRwGZQhV/images.jpg" group-title="Sports",ptv sports
-https://backend.plusbox.tv/TSports/index.fmp4.m3u8?token=f5bbe12c290497ccd0da4a92c08ab393e13e2c60-2359a52653ee6361586e26b54181dd11-1776245770-1776234970
+https://json-to-m3u.saemon068.workers.dev/?url=http://180.94.28.28:8097/SUPERSPORT-CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png",T Sports 
 https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
