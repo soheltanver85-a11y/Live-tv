@@ -30,8 +30,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9jF2B20/NEWS24-HD.png" group-title="Bangladesh",NEWS24 HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gMzdFFxC/CHANNEL-24-HD.png" group-title="Bangladesh",CHANNEL 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
