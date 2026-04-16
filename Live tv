@@ -10,6 +10,11 @@ https://json-to-m3u.saemon068.workers.dev/?url=http://180.94.28.28:8097/STAR-SPO
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRwGZQhV/images.jpg" group-title="Sports",ptv sports
 https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1776262309&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0d7a494e4e391c9aa08be9ccec8ad12e
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mZFW558x/images.png" group-title="Sports",Willow Hd
+https://iptvtest068.emonsa4.workers.dev/?https%3A%2F%2Fjson-to-m3u.saemon068.workers.dev%2F%3Furl%3Dhttp%3A%2F%2F180.94.28.28%3A8097%2FWILLOW-TV%2Findex.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png",T Sports 
 https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 
