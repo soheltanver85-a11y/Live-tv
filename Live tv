@@ -19,6 +19,9 @@ https://iptvtest068.emonsa4.workers.dev/?https%3A%2F%2Fjson-to-m3u.saemon068.wor
 https://playlist.emonsa4.workers.dev/playlist.m3u?t=1776594363403
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJXPLQjx/images.jpg" group-title="Sports",bein Sports
+https://maymunmatematigi.lol/static/bs3.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png" group-title="Bangladesh",JAMUNA TV
