@@ -8,7 +8,7 @@ https://starsportshindiii.pages.dev/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRwGZQhV/images.jpg" group-title="Sports",ptv sports
-https://tvsen5.aynascope.net/PtvSports/index.m3u8?e=1776262309&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0d7a494e4e391c9aa08be9ccec8ad12e
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mZFW558x/images.png" group-title="Sports",Willow Hd
