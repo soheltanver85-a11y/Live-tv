@@ -16,7 +16,7 @@ https://iptvtest068.emonsa4.workers.dev/?https%3A%2F%2Fjson-to-m3u.saemon068.wor
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png",T Sports 
-https://go.iptvpulse.top/ds10.m3u
+http://198.195.239.50:8095/Tsports/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJXPLQjx/images.jpg" group-title="Sports",bein Sports
