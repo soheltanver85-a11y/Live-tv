@@ -7,23 +7,20 @@ https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://c
 https://starsportshindiii.pages.dev/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fRwGZQhV/images.jpg" group-title="Sports",ptv sports
-http://198.195.239.50:8095/PTV-kutta/video.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mZFW558x/images.png" group-title="Sports",Willow Hd
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1776756678&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b8034a76e14a036e6c9bc8fc3840fa2d
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fWX7jGc5/images-(1).png",T Sports 
-http://198.195.239.50:8095/Tsports/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJXPLQjx/images.jpg" group-title="Sports",bein Sports
 https://maymunmatematigi.lol/static/bs3.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/GtGYfF9b/sky-sports-logo-image-png.jpg" group-title="Sports",Sky sports
-https://football.sagorislamrid.workers.dev/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/gbJBXL6V/JAMUNA-TV.png" group-title="Bangladesh",JAMUNA TV
