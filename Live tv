@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4dyQ4sv/unnamed.webp" group-title="Sports",Live sports
-https://manifest-edge.videocdn.io/media/9f3d124e3869/chunklist.m3u8?session=4f526da7a32ea3fd
+https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
 
 
 EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4dyQ4sv/unnamed.webp" group-title="Sports",Live sports2
