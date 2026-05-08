@@ -3,8 +3,43 @@
 https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6p7yRGvB/star-sports-one-live-cricket-lit-screenshot.webp" group-title="Sports",Star sports
+https://tyr.zibobdixserver.top/hls/StarSports1HD.m3u8
+
 EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4dyQ4sv/unnamed.webp" group-title="Sports",Live sports2
 https://bd-mc-fblive.fancode.com/mumbai/142070_english_hls_21924c1e895043_1ta-di_h264/720p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d0z6NDVX/images.jpg" group-title="Sports",PSL
+https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v3a1/mono.ts.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mZFW558x/images.png" group-title="Sports",Willow Hd
+https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpPbr2CH/images.jpg" group-title="Sports",beIN SPORTS
+https://maymunmatematigi.lol/static/bs4.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4pp1DmM/Gallery-1778179250245.png" group-title="Sports",fancode live 1
+https://bd-mc-fblive.fancode.com/mumbai/142148_english_hls_e619be866478969_1ta-di_h264/1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4pp1DmM/Gallery-1778179250245.png" group-title="Sports",Fancode live 2
+https://bd-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/1080p.m3u8
+
+
+
+
 
 
 
@@ -57,33 +92,5 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nhxkMNnZ/images.png" group-title="all", Discovery
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8  
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d0z6NDVX/images.jpg" group-title="Sports",PSL
-https://ml-pull-dvc-myco.io:2096/GEO_SUPER/tracks-v3a1/mono.ts.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mZFW558x/images.png" group-title="Sports",Willow Hd
-https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpPbr2CH/images.jpg" group-title="Sports",beIN SPORTS
-https://maymunmatematigi.lol/static/bs4.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4pp1DmM/Gallery-1778179250245.png" group-title="Sports",fancode live 1
-https://bd-mc-fblive.fancode.com/mumbai/142148_english_hls_e619be866478969_1ta-di_h264/1080p.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4pp1DmM/Gallery-1778179250245.png" group-title="Sports",Fancode live 2
-https://bd-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/1080p.m3u8
 
 
