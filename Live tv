@@ -6,8 +6,10 @@ https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6p7yRGvB/star-sports-one-live-cricket-lit-screenshot.webp" group-title="Sports",Star sports
 https://tyr.zibobdixserver.top/hls/StarSports1HD.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4dyQ4sv/unnamed.webp" group-title="Sports",Live sports2
-https://bd-mc-fblive.fancode.com/mumbai/142070_english_hls_21924c1e895043_1ta-di_h264/720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9FwDw79v/images.png" group-title="Sports",T Sports
+https://padmaonline.duckdns.org:8088/T-S-HD/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d0z6NDVX/images.jpg" group-title="Sports",PSL
@@ -36,6 +38,11 @@ https://bd-mc-fblive.fancode.com/mumbai/142148_english_hls_e619be866478969_1ta-d
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J4pp1DmM/Gallery-1778179250245.png" group-title="Sports",Fancode live 2
 https://bd-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa49394_1ta-di_h264/1080p.m3u8
+
+
+
+
+
 
 
 
