@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4dyQ4sv/unnamed.webp" group-title="Sports",Live sports
-http://172.19.178.29:18190/PC-01/index.fmp4.m3u8?token=ccaf67cc9678b05b5a190cf213be51a70b9cd88d-bf8707a65799fff321917c9f60ce77da-1778523830-1778512730
+https://server3.offlineripon.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3D07TV6CamCspPQemt6rR_bQ%26expires%3D1778518582&headers=%7B%22referer%22%3A%22https%3A%2F%2Fexecuteandship.com%2F%22%2C%22origin%22%3A%22https%3A%2F%2Fexecuteandship.com%22%2C%22user-agent%22%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F124.0.0.0+Safari%2F537.36%22%7D
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6p7yRGvB/star-sports-one-live-cricket-lit-screenshot.webp" group-title="Sports",Star sports
