@@ -8,8 +8,7 @@ https://tyr.zibobdixserver.top/hls/StarSports1HD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vT3CQTY6/images.jpg" group-title="Sports",T Sports
-https://backend.plusbox.tv/TSports/index.fmp4.m3u8?token=033bb95f6ab68add5ac6e30852b93da9765503ca-c6377df3a62644d53bfdf12cd5068051-1778507693-1778496893
-
+http://172.19.178.49:18190/t_sports_vip/index.fmp4.m3u8?token=fd0a9bbda95018b3e6830ffd8bce4961abe9d7bb-8fabb0dba3381efa9eba615eb69ed761-1778524058-1778512958
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d0z6NDVX/images.jpg" group-title="Sports",PSL
