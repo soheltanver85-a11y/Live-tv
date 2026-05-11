@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4dyQ4sv/unnamed.webp" group-title="Sports",Live sports
-https://server3.offlineripon.workers.dev/?url=https%3A%2F%2Fcdn5.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3D07TV6CamCspPQemt6rR_bQ%26expires%3D1778518582&headers=%7B%22referer%22%3A%22https%3A%2F%2Fexecuteandship.com%2F%22%2C%22origin%22%3A%22https%3A%2F%2Fexecuteandship.com%22%2C%22user-agent%22%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F124.0.0.0+Safari%2F537.36%22%7D
+https://server2.offlineripon.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%3A1686%2Fhls%2Fpremieruk.m3u8%3Fmd5%3DptE3wtLWo-V7kzf78ITWbg%26expires%3D1778518716&headers=%7B%22referer%22%3A%22https%3A%2F%2Fexecuteandship.com%2F%22%2C%22origin%22%3A%22https%3A%2F%2Fexecuteandship.com%22%2C%22user-agent%22%3A%22Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F124.0.0.0+Safari%2F537.36%22%7D
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6p7yRGvB/star-sports-one-live-cricket-lit-screenshot.webp" group-title="Sports",Star sports
