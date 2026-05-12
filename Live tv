@@ -7,6 +7,11 @@ https://server2.offlineripon.workers.dev/?url=https%3A%2F%2Fcdn3.zohanayaan.com%
 https://tyr.zibobdixserver.top/hls/StarSports1HD.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pTc6H9mr/images.png" group-title="Sports",beIN SPORTS
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vT3CQTY6/images.jpg" group-title="Sports",T Sports
 http://172.19.178.29:18190/CD-E01-01/index.fmp4.m3u8?token=43978e4a1d87520be1e02b870cdaefa7f21d9cc0-d3e95c76b6519a8ed777afad18285c71-1778527905-1778516805
 
@@ -21,8 +26,7 @@ https://server2.offlineripon.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%
 https://server2.offlineripon.workers.dev/?url=https%3A%2F%2Fcdn9.zohanayaan.com%3A1686%2Fhls%2Fhdchnl2.m3u8%3Fmd5%3DGop7HXAE6srl5BdU0ASlYg%26expires%3D1778435426&headers=%7B%22referer%22%3A%22https%3A%2F%2Fteachtrendhub.com%2F%22%2C%22origin%22%3A%22https%3A%2F%2Fteachtrendhub.com%22%2C%22user-agent%22%3A%22Mozilla%2F5.0%2B(Windows%2BNT%2B10.0%3B%2BWin64%3B%2Bx64)%2BAppleWebKit%2F537.36%2B(KHTML%2C%2Blike%2BGecko)%2BChrome%2F124.0.0.0%2BSafari%2F537.36%22%7D
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/rpPbr2CH/images.jpg" group-title="Sports",beIN SPORTS
-https://maymunmatematigi.lol/static/bs4.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJcMC45L/channels4-profile.jpg" group-title="Sports",A sports hd
 https://bd-mc-fblive.fancode.com/mumbai/142414_english_hls_15500b65e596839_1ta-di_h264/1080p.m3u8
