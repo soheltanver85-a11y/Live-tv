@@ -108,5 +108,4 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyaath_576/sonyaath_576.m3
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nhxkMNnZ/images.png" group-title="all", Discovery
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyaath_576/sonyaath_576.m3u8?bitrate=1000000&channel=sonyaath_576&gp_id=
-
+http://172.19.178.145:18190/discovery_bangla/index.fmp4.m3u8?token=36ff850498edec97d1f951efab470b5e2741a03b-2cbc19ca5496ee0da48b7552cfaa5f21-1778695116-1778684016
