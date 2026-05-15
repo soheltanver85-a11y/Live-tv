@@ -12,8 +12,6 @@ https://api.allorigins.win/raw?url=http://10.189.188.187/webplayer/webplayer/38.
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8khK99Hn/nat-geo-wild.jpg" group-title="",Nat Geo Wild
-https://cors-anywhere.froala.com/84.17.50.102/natgeowild/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d0z6NDVX/images.jpg" group-title="Sports",PTV Sports
@@ -108,3 +106,8 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nhxkMNnZ/images.png" group-title="all", Discovery
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_2000000=66-mp4a_256000_eng=12.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8khK99Hn/nat-geo-wild.jpg" group-title="",Nat Geo Wild
+https://cors-anywhere.froala.com/84.17.50.102/natgeowild/tracks-v1a1/mono.ts.m3u8
+
