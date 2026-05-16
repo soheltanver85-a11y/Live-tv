@@ -7,14 +7,18 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 https://tyr.zibobdixserver.top/hls/StarSports1HD.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pTc6H9mr/images.png" group-title="Sports",TEN Cricket
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d0z6NDVX/images.jpg" group-title="Sports",PTV Sports
 https://server2.offlineripon.workers.dev/?url=https%3A%2F%2Fcdn6.zohanayaan.com%3A1686%2Fhls%2Fptvpk.m3u8%3Fmd5%3D9pSrp99nlTXapTUMGvHEQw%26expires%3D1778518242&headers=%7B%22referer%22%3A%22https%3A%2F%2Fteachtrendhub.com%2F%22%2C%22origin%22%3A%22https%3A%2F%2Fteachtrendhub.com%22%2C%22user-agent%22%3A%22Mozilla%2F5.0%2B(Windows%2BNT%2B10.0%3B%2BWin64%3B%2Bx64)%2BAppleWebKit%2F537.36%2B(KHTML%2C%2Blike%2BGecko)%2BChrome%2F124.0.0.0%2BSafari%2F537.36%22%7D
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pTc6H9mr/images.png" group-title="Sports",TEN Cricket
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 
 
