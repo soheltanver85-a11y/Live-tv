@@ -8,7 +8,7 @@ https://tyr.zibobdixserver.top/hls/StarSports1HD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pTc6H9mr/images.png" group-title="Sports",TEN Cricket
-https://api.allorigins.win/raw?url=http://10.189.188.187/webplayer/webplayer/38.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 
 
