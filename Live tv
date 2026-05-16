@@ -102,7 +102,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xdkhxRGc/images.webp" group-title="all",Sony Aath
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyaath_576/sonyaath_576.m3u8?bitrate=1000000&channel=sonyaath_576&gp_id=
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=573
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cLDsryf1/Animal-Planet-HD-svg.png" group-title="all",Animal Planet HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
