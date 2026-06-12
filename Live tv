@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CNDd2kB/fifaindiatimings1-1781177759.jpg" group-title="Sports",FIFA World Cup 
+https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/1080p.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k4dyQ4sv/unnamed.webp" group-title="Sports",Live sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_2.m3u8
 
@@ -20,8 +29,7 @@ https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779283784
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CNDd2kB/fifaindiatimings1-1781177759.jpg" group-title="Sports",FIFA World Cup 
-https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/1080p.m3u8
+
 
 
 
