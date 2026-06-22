@@ -6,7 +6,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8CNDd2kB/fifaindiatimings1-1781177759.jpg" group-title="Sports",FIFA World Cup 
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc_video_4_0_9872057.mp4?m=1762820548
+http://198.195.239.50:8095/ptv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ4GJNPv/images.jpg" group-title="all",T sports http://198.195.239.50:8095/tsports/index.m3u8
